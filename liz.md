@@ -17,9 +17,3 @@ console.log("hola git")
  **Negrita** y *cursiva*
 
 # ejercicio
-
-## pop
-
--hills - the weeknd
-- me hace daño verte - s
--ice 
